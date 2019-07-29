@@ -1,0 +1,15 @@
+{
+  "name": "hnhdigital-os/gtag",
+  "authors": [
+    {
+      "name": "Rocco Howard",
+      "email": "rocco@hnh.digital"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "HnhDigitalGtag\\": "src/"
+    }
+  },
+  "require": {}
+}
